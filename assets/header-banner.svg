@@ -57,7 +57,7 @@
     stroke="#none"
     stroke-width="1"
   >
-    Hi, I am Nazmus Sayad
+   Hello, I'm Hasanul Haque Shiblu
   </text>
   <text
     text-anchor="middle"
@@ -67,6 +67,6 @@
     class="desc"
     style="fill: #c9d1d9"
   >
-    a little fullStack web developer.
+    a little MERN Stack developer.
   </text>
 </svg>
