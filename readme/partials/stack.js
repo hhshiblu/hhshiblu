@@ -12,8 +12,6 @@ const stack = [
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg',
-  'https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg',
-  'https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg',
   'https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg',
